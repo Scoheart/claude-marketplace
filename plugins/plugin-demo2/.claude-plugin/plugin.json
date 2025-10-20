@@ -1,0 +1,8 @@
+{
+  "name": "plugin-demo2",
+  "description": "A simple parrot plugin to learn the basics",
+  "version": "1.0.0",
+  "author": {
+    "name": "Scoheart"
+  }
+}
