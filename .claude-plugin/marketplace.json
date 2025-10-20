@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "plugin-demo1",
-      "source": "./plugins/plugin-demo1"
+      "source": "../plugins/plugin-demo1"
     }
   ]
 }
