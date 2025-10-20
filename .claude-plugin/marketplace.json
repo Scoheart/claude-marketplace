@@ -1,0 +1,12 @@
+{
+  "name": "claude-marketplace-github",
+  "owner": {
+    "name": "Scoheart"
+  },
+  "plugins": [
+    {
+      "name": "plugin-demo1",
+      "source": "./plugins/plugin-demo1"
+    }
+  ]
+}
